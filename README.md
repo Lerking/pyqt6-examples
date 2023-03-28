@@ -1,4 +1,5 @@
-# Python repo template
+# pyqt6 examples
+[![GitHub license](https://img.shields.io/github/license/Lerking/pyqt6-examples.svg)](
 [![GitHub forks](https://img.shields.io/github/forks/Lerking/pyqt6-examples.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Lerking/pyqt6-examples/forks/)
 [![GitHub stars](https://img.shields.io/github/stars/Lerking/pyqt6-examples.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Lerking/pyqt6-examples/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Lerking/pyqt6-examples.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Lerking/pyqt6-examples/watchers/)
