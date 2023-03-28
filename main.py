@@ -1,3 +1,5 @@
+'''pyqt6 example'''
+
 import sys
 from PyQt6.QtWidgets import (
     QApplication,
@@ -6,6 +8,7 @@ from PyQt6.QtWidgets import (
 )
 import common
 class MainWindow(QMainWindow):
+    '''MainWindow Class'''
     def __init__(self):
         super().__init__()
         self.setWindowTitle("My App "+common.VERSION)
@@ -17,9 +20,11 @@ class MainWindow(QMainWindow):
         self.setCentralWidget(button)
         
     def the_button_was_clicked(self):
+        '''Slot/signal'''
         print("Clicked!")
         
     def the_button_was_toggled(self, checked):
+        '''Slot/signal'''
         print("Checked?", checked)
         
 app = QApplication(sys.argv)
