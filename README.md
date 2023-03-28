@@ -5,6 +5,10 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+[![Python 3.6](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+[![GitHub license](https://img.shields.io/github/license/Lerking/golang-repo-template.svg)](https://github.com/Lerking/golang-repo-template/blob/master/LICENSE)
+
 [![GitHub version](https://badge.fury.io/gh/Lerking-pyqt6-examples.svg)](https://github.com/Lerking/pyqt6-examples)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Lerking/pyqt6-examples.github.io/graphs/commit-activity)
