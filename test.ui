@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTreeWidget" name="treeWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>411</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="alternatingRowColors">
+    <bool>true</bool>
+   </property>
+   <property name="columnCount">
+    <number>3</number>
+   </property>
+   <column>
+    <property name="text">
+     <string>Filename</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Source</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Destination</string>
+    </property>
+   </column>
+   <item>
+    <property name="text">
+     <string>f1</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <item>
+     <property name="text">
+      <string>ATTRIBUTE</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <item>
+      <property name="text">
+       <string>Attr. name</string>
+      </property>
+      <property name="text">
+       <string>Attr. source</string>
+      </property>
+      <property name="text">
+       <string>Missing</string>
+      </property>
+     </item>
+    </item>
+    <item>
+     <property name="text">
+      <string>MV Update</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <item>
+      <property name="text">
+       <string>MV000</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </item>
+    </item>
+    <item>
+     <property name="text">
+      <string>New MV</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </item>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
